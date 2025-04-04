@@ -1,0 +1,7 @@
+C:\Users\Signl\source\repos\poe\poe\bin\Debug\poe.exe.config
+C:\Users\Signl\source\repos\poe\poe\bin\Debug\poe.exe
+C:\Users\Signl\source\repos\poe\poe\bin\Debug\poe.pdb
+C:\Users\Signl\source\repos\poe\poe\obj\Debug\poe.csproj.AssemblyReference.cache
+C:\Users\Signl\source\repos\poe\poe\obj\Debug\poe.csproj.CoreCompileInputs.cache
+C:\Users\Signl\source\repos\poe\poe\obj\Debug\poe.exe
+C:\Users\Signl\source\repos\poe\poe\obj\Debug\poe.pdb
