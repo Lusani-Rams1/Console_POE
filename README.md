@@ -2,7 +2,7 @@
 PART 1 OF THE POE
 
 Project Details
-1:Project name:
+1:Project name: poe
 2:Netframework: 4.7.2
 3:Template: Console App C# NetFrameWork
 
