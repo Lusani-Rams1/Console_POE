@@ -6,6 +6,14 @@ Project Details
 2:Netframework: 4.7.2
 3:Template: Console App C# NetFrameWork
 
+Featured files
+User_Interface.cs
+Logo.cs
+playNow.cs
+Program.cs
+Logo.jpg
+Chatbot.wav
+
 User Guide
 1: When you execute application
 - A voice greeting is going to execute under a .wav format
@@ -25,10 +33,22 @@ User Guide
 4: System will prompt user to enter their Name
 - This name will be used by the Chatbot while it addresses you after inputing it
 
-5: shortly after the user will be able to ask a question until they decide to exit 
+5: shortly after the user will be able to ask a question  about cybersecurity until they decide to exit 
    the application
     - Passoword
     - Cybersecurity
     - Phishing and more...
+    Example of asking question:
+    Enter your question
+    User-> scam
+    Phishing scams trick users into revealing sensitive information.
+    ===========================
+    Ask another question!
+    Enter your question
+    User->
 
-6: 
+  - You can search the question by using keywords like 'scam'
+    
+6: when you insert void question app will show error message telling you to input correct question
+
+lastly you can exit app by inputting exit.
